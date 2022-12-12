@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "title": "Nhiếp ảnh vỡ lòng",
+        "author": "Cô Loan",
+        "description": "Lộc Ngô",
+        "descriptionNhanVat": "ABCD",
+        "descriptionCauNoi": "fojuofheuhcifd"
+    },
+    {
+        "id": "2",
+        "title": "Bachdeptrai",
+        "author": "ThachLam",
+        "description": "Tác phẩm nổi tiếng về người đẹp trai",
+        "descriptionNhanVat": "Tường Bách, Hạo Nhiên",
+        "descriptionCauNoi": "Wibu muôn năm",
+        "comment": [
+            {
+                "name": "",
+                "writting": "",
+                "date": ","
+            }
+        ],
+        "img": "https://bizweb.dktcdn.net/100/370/339/products/199687236-1394000974301822-5819767848467908425-n.jpg?v=1623745324887"
+    },
+    {
+        "id": "3",
+        "title": "BaoLong",
+        "author": "ThachLam",
+        "description": "Hiện Đại",
+        "descriptionNhanVat": "Phan Quân, Hoàng Việt",
+        "descriptionCauNoi": "Tác phẩm làm nên tên tuổi của Vũ Trọng Phụng"
+    },
+    {
+        "id": "4",
+        "title": "Hai đứa trẻ",
+        "author": "Thạch Lam",
+        "description": "Hiện đại",
+        "descriptionNhanVat": "Liên, An, Bác Xẩm, Chị Tí và con chị Tí, bà cụ Thi điên",
+        "descriptionCauNoi": "Tác phẩm miêu tả phố huyện nghèo,..."
+    },
+    {
+        "id": "5",
+        "title": "Chữ Người Tử Tù",
+        "author": "Nguyễn Tuân",
+        "description": "Nét chữ",
+        "descriptionNhanVat": "Huấn Cao, ",
+        "descriptionCauNoi": "ABCDXYZ"
+    },
+    {
+        "id": "6",
+        "title": "Lebaolong1234",
+        "author": "TPhuong",
+        "description": "Long báo lê 4321",
+        "descriptionNhanVat": "ABCD",
+        "descriptionCauNoi": "Wibu muôn năm"
+    },
+    {
+        "id": "ca10f679-aa16-470d-98d0-1ddfc3a03ee3",
+        "title": "Vật lý đại cương",
+        "author": "Cô Loan",
+        "description": "Chiều dòng điện",
+        "descriptionNhanVat": "A,B,C,D",
+        "descriptionCauNoi": "fojuofheuhcifd"
+    },
+    {
+        "id": "b19c153c-d38c-4fb6-a01f-801bd312b961",
+        "author": "Thùy Trâm",
+        "title": "tfutyfiygi",
+        "description": ",mbguyvgfytgiygy",
+        "descriptionNhanVat": "nviu giùhs",
+        "descriptionCauNoi": ";guviegucbel"
+    },
+    {
+        "id": "1768fed5-96b3-464a-b488-f338fa527cb5",
+        "title": "tfutyfdfghgfdsaiygi",
+        "author": "hbigyfiyghuokonik",
+        "description": ",mbgdfghjkjhgfuyvgfytgiygy",
+        "descriptionNhanVat": "bhnmhgj hnjok",
+        "descriptionCauNoi": "ybnuhjvuoivuhi"
+    }
+]
